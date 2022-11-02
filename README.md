@@ -1,2 +1,2 @@
-# Restaurants-
+# Restaurants
 Restaurants in Southern Thailand
